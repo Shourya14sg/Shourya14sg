@@ -2,9 +2,9 @@
 <h3 align="center">Backend Developer | Systems Builder | Automation Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:shouryag47@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/shourya-gupta-30526a252">💼 LinkedIn</a> •
-  <a href="https://github.com/Shourya14sg">💻 GitHub</a>
+  📧 <a href="mailto:shouryag47@gmail.com">Email</a> •
+  💼 <a href="https://www.linkedin.com/in/shourya-gupta-30526a252">LinkedIn</a> •
+  💻 <a href="https://github.com/Shourya14sg">GitHub</a>
 </p>
 
 ---
@@ -90,15 +90,13 @@ I enjoy solving **operational bottlenecks**, designing **high-performance APIs**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shourya14sg&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shourya14sg&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Shourya14sg&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shourya14sg&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
